@@ -1,0 +1,10 @@
+[#]
+Level = LOG_TRACE
+Path = ./logs/
+File = def_log.log
+[trace]
+Level = LOG_TRACE
+File = logs/trace.log
+[error]
+Level = LOG_ERROR
+File = logs/error.log

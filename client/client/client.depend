@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1500227529 source:/home/pavel/src/network/TcpPtoject/client/client/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ClientLogic.h"
+
+1500230875 source:/home/pavel/src/network/TcpPtoject/client/client/src/Client_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Client_ui.h"
+	"Client.h"
+
+1500228224 source:/home/pavel/src/network/TcpPtoject/client/client/src/client.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Client_ui.h"
+	"Client.h"
+	"Net.h"
+	<arpa/inet.h>
+
+1499499828 source:/home/pavel/src/network/TcpPtoject/src/Net.c
+	<errno.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	"Net.h"
+
+1500228788 source:/home/pavel/src/network/TcpPtoject/client/client/src/ClientLogic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ClientLogic.h"
+	"Client.h"
+	"Protocol.h"
+	"Client_ui.h"
+
+1500231203 source:/home/pavel/src/network/TcpPtoject/src/Protocol.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdarg.h>
+	<unistd.h>
+	<string.h>
+	"Protocol.h"
+	"Tlv.h"
+
+1500231418 source:/home/pavel/src/network/TcpPtoject/src/Tlv.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdarg.h>
+	<unistd.h>
+	<string.h>
+	"Tlv.h"
+
+1499499828 source:/home/pavel/src/network/TcpProject/src/Net.c
+	<errno.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	"Net.h"
+
+1500502099 source:/home/pavel/src/network/TcpProject/client/client/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<unistd.h>
+	<sys/time.h>
+	"ClientLogic.h"
+
+1500228224 source:/home/pavel/src/network/TcpProject/client/client/src/client.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Client_ui.h"
+	"Client.h"
+	"Net.h"
+	<arpa/inet.h>
+
+1500500845 source:/home/pavel/src/network/TcpProject/client/client/src/ClientLogic.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	"Db.h"
+	"hashmap.h"
+	"ClientLogic.h"
+	"Client.h"
+	"Protocol.h"
+	"Client_ui.h"
+
+1500467556 source:/home/pavel/src/network/TcpProject/src/Protocol.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<stdarg.h>
+	<unistd.h>
+	<string.h>
+	"Protocol.h"
+	"Tlv.h"
+
+1500233450 source:/home/pavel/src/network/TcpProject/src/Tlv.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdarg.h>
+	<unistd.h>
+	<string.h>
+	"Tlv.h"
+
+1500530244 source:/home/pavel/src/network/TcpProject/client/client/src/Client_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Client_ui.h"
+	"Client.h"
+
+1500501024 source:/home/pavel/src/network/TcpProject/src/Db.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Db.h"
+	"hashmap.h"
+

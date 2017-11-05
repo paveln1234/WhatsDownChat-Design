@@ -1,0 +1,20 @@
+[#]
+Level = LOG_ERROR
+Path = ./logs/
+File = client.log
+
+[Client]
+Level = LOG_ERROR
+File = Client.log
+
+[Server]
+Level = LOG_ERROR
+File = Server.log 
+
+[scheduleTask]
+Level = LOG_ERROR
+File = scheduleTask.log 
+
+[scheduleTimer]
+Level = LOG_ERROR
+File = scheduleTimer.log 
